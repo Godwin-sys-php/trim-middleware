@@ -1,0 +1,17 @@
+{
+  "name": "trim-middleware",
+  "version": "1.1.1",
+  "description": "Middleware that automatically trim the body of requests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["trim", "middleware", "auto trim"],
+  "author": "Godwin Burume",
+  "repository": "https://github.com/Godwin-sys-php/trim-middleware",
+  "devDependencies": {
+    "body-parser": "1.6.5",
+    "express": "4.10.4"
+  },
+  "license": "ISC"
+}
